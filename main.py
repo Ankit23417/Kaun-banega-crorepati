@@ -1,5 +1,3 @@
-from itertools import count
-
 questions =[ ["Which is the largest lake in the world","Capsian sea","Biakal","Malawi","Grate slave lake"
               ,"none",1],
 
