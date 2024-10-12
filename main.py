@@ -1,3 +1,5 @@
+print(                                   "WELCOME TO KAUN BANEGA CROREPATI")
+
 questions =[ ["Which is the largest lake in the world","Capsian sea","Biakal","Malawi","Grate slave lake"
               ,"none",1],
 
